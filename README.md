@@ -1,4 +1,4 @@
-# 🏎️ Ferrari Luce Reddit Sentiment Analysis
+# Ferrari Luce Reddit Sentiment Analysis 🏎️
 
 ## Overview
 

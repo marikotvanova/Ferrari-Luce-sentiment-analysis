@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyses Reddit reactions to Ferrari's newly revealed electric vehicle, the Ferrari Luce, using multiple NLP and LLM-based sentiment analysis approaches.
+This project analyses Reddit reactions to Ferrari's newly revealed electric vehicle, the **Ferrari Luce**, using multiple NLP and LLM-based sentiment analysis approaches.
 
 The goal was not only to estimate overall public reaction, but also to compare how different sentiment analysis methods perform on real-world social media data containing sarcasm, humour, informal language, and indirect opinions.
 

@@ -1,4 +1,4 @@
-# Ferrari Luce Reveal: Reddit Sentiment & Target Stance Analysis
+# 🏎️ Ferrari Luce Reddit Sentiment Analysis
 
 ## Overview
 

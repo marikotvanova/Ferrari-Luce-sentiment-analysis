@@ -138,12 +138,13 @@ This project is fully self-contained within a Jupyter Notebook pipeline (`.ipynb
 ```
 
 `.env` example for required API credentials:
-
+```
 APP_ID="your_reddit_client_id"
 APP_SECRET="your_reddit_client_secret"
 REDDIT_USERNAME="your_reddit_username"
 DEEPL_API_KEY="your_deepl_auth_key"
 GEMINI_API_KEY="your_google_genai_key"
+```
 
 ---
 
